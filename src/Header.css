@@ -15,11 +15,6 @@
     object-fit: contain;
 }
 
-.header__icon > img {
-    padding: 20px;
-    height: 50%;
-}
-
 .header__center {
     display: flex;
     flex: 1;
