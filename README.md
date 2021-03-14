@@ -1,3 +1,17 @@
+# React-Airbnb-Clone
+
+
+Tried this awesome tutorial on youtube.
+
+
+[🔴 Build an Airbnb Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=BtJeH_-XYaA)
+
+
+- React
+- Material UI
+- React Router
+- React Data Picker
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
